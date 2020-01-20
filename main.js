@@ -1,2 +1,2 @@
 console.log("Teste")
-console.log("Alteração")
+console.log("Alteração ")
